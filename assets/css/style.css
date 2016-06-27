@@ -1,0 +1,142 @@
+
+/* 
+
+Each of these CSS elements is associated with an HTML Element, Class, or ID.
+Flip between this css file and the HTML to see how things line up. 
+Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
+
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: ;
+	font-size: 18px;
+	line-height: 150%;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	color: #777777;
+}
+header {
+	background: white;
+	border-bottom: solid #cccccc ;
+	
+	
+}
+
+.name{
+	
+	background: #4aaaa5;
+	padding: 45px 0;
+	width: 400px;
+	color: #eee;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+}
+h1 {
+	background: white;
+	padding: 20px 0;
+	color: #4aaaa5;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+h2 {
+	background: white;
+	border-bottom: solid #cccccc;
+	padding: 20px 0;
+	color: #4aaaa5;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h3{
+	background: white;
+	border-bottom: solid #cccccc;
+	padding: 20px;
+	color: #4aaaa5;
+	margin: 0 20px;
+	font-size: 28px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+a {
+	color: #d21034;
+}
+.container {
+	width: 1024px;
+	margin: auto;
+}
+#main-bio{
+	border: solid #ffffff;
+}
+
+
+
+#contact-info {
+	position: absolute;
+	background: white;
+	border: solid #ffffff;
+	padding: -5px;
+	text-align: center;
+	margin: 10px
+	width: auto;
+	top: 160px;
+	right: 20px;
+}
+
+
+#bio-image {
+	float: left;
+}
+#main-bio {
+	width: 70%;
+}
+
+#bio-image {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
+#fixed {
+	position: fixed;
+	background: #4aaaa5;
+	padding: 40px;
+	text-align: center;
+	margin: 0;
+	top: 0;
+	left: 20px;
+	}
+
+	.navbar{
+	width: 250px;
+	position: absolute;
+	background: white;
+	color: #cccccc;
+	padding: 20px;
+	top: 80px;
+	right: -30px;
+	text-align: center;
+	}
+	
+	.social{
+		list-style: none;
+
+	}
+
+.social > li {float: left;
+				border-right: solid #cccccc
+			;} 
+
+
+
+
+
+
+	
